@@ -1,0 +1,4 @@
+Este é um documento txt de teste, para que eu possa 
+entender como fazer commit e push.
+
+print("Olá mundo!!")
